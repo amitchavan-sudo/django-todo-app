@@ -37,5 +37,5 @@ Once the server is hosted, head over to http://127.0.0.1:8000/todos for the App.
 
 Cheers and Happy Coding :)
 
-now wwe are starting a new project form Amit chavan 
 
+hello it Amit chavan
